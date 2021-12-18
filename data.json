@@ -1,0 +1,25 @@
+{
+    "cards":[{
+        "img":"images/mobile2.jpg",
+        "Name":"iphone",
+        "rate":"20000",
+        "offer":"16000",
+        "button":"view"
+    },{
+        "img":"images/mobile2.jpg",
+        "Name":"iphone8",
+        "rate":"23000",
+        "offer":"18000",
+        "button":"view"
+
+    },{
+        "img":"images/mobile2.jpg",
+        "Name":"vivo",
+        "rate":"18000",
+        "offer":"12000",
+        "button":"view"
+    }
+
+    ]
+    
+}
